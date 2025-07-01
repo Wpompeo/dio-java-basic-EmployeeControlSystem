@@ -1,18 +1,36 @@
-## Getting Started
+## Controle de PetShop. 
+Neste repositório, temos um sistema de controle de funcionários. Neste sistema temos a possibilidade de cadastrar as pessoas com seus nomes, salários, comissões, senhas e logins.
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
+## :camera_flash: Screenshots
+<!-- You can add more screenshots here if you like -->
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<img src="https://github.com/user-attachments/assets/664b2f3b-defb-4a2a-b91f-08f4b8965c0c" width=280/>
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+# Técnologias utilizadas:
+* Scanner para entrada e saída de dados.
+* Sysout para saída de mensagens em alguns formatos especificos.
+* Variáveis.
+* Orientação ao objeto.
+* Funções.
+* Class abstracts.
+* Class sealed.
+* Class nos-sealed.
+* Permits.
+* Funções @Override.
+* Construtores.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
-## Dependency Management
+## License
+```
+The MIT License (MIT)
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Copyright (c) 2025 Wagner Pompeo Corrêa
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal in
+the Software without restriction, including without limitation the rights to
+use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+the Software, and to permit persons to whom the Software is furnished to do so,
+subject to the following conditions:
